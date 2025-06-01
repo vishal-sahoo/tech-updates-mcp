@@ -5,7 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "arxiv>=2.2.0",
     "bs4>=0.0.2",
     "mcp[cli]>=1.9.1",
+    "nvdlib>=0.7.7",
     "requests>=2.32.3",
 ]
